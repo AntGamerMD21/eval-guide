@@ -2,6 +2,16 @@
 
 Learn ML evaluation metrics by running actual code and seeing real results!
 
+## 🚨 Real-World Problem Preview
+
+Imagine: Your sentiment model shows 92% accuracy in testing.
+You deploy it. Users complain it's "weirdly confident but wrong."
+
+Standard metrics say: ✅ 92% - ship it!
+SRI/CI reveal: ⚠️ Type I failures (confidently wrong on critical cases)
+
+**This guide teaches you the 92%. Lesson 6 hints at why that's not enough.**
+
 ## Quick Start
 
 **All notebooks are pre-run with outputs!** You can just read through them to learn, or run the code yourself:
