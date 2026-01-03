@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this project in your research or teaching, please cite it as below."
+authors:
+  - family-names: "Kwon"
+    given-names: "Alex"
+    affiliation: "Collapse Index Labs"
+    orcid: "https://orcid.org/0009-0002-2566-5538"
+organization: "Collapse Index Labs"
+title: "ML Evaluation Metrics - Interactive Lessons"
+version: 1.0.0
+date-released: 2026-01-02
+url: "https://github.com/collapseindex/eval-guide"
+license: MIT
+keywords:
+  - machine learning
+  - evaluation metrics
+  - classification
+  - regression
+  - cross-validation
+  - ROC
+  - AUC
+  - BLEU
+  - ROUGE
+  - jupyter notebooks
+  - educational
+repository-code: "https://github.com/collapseindex/eval-guide"
+type: software
+abstract: "Interactive Jupyter notebooks teaching machine learning evaluation metrics through hands-on examples. Covers classification metrics (accuracy, precision, recall, F1), regression metrics (MAE, RMSE, R²), text generation metrics (BLEU, ROUGE), advanced classification (ROC/AUC), and cross-validation best practices."

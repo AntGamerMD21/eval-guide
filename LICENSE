@@ -1,0 +1,48 @@
+MIT License
+
+Copyright (c) 2026 Collapse Index Labs - Alex Kwon
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+================================================================================
+
+IMPORTANT EXCLUSIONS FROM MIT LICENSE:
+
+This MIT License applies ONLY to the educational content and code teaching
+standard ML evaluation metrics (accuracy, precision, recall, F1, RMSE, ROC,
+AUC, BLEU, ROUGE, cross-validation, etc.) using open-source libraries.
+
+The following are EXPLICITLY EXCLUDED from this MIT License and remain
+proprietary intellectual property:
+
+- Structural Retention Index (SRI)
+- Collapse Index (CI)
+- Collapse Severity Index (CSI)
+- All associated methodologies, algorithms, and implementations
+- Any content describing SRI/CI/CSI is for educational awareness only
+
+SRI, CI, and CSI are:
+Copyright © 2025 Collapse Index Labs - All Rights Reserved
+Protected as proprietary trade secrets and intellectual property
+
+Unauthorized reproduction, implementation, reverse-engineering, or creation
+of derivative works based on SRI/CI/CSI is strictly prohibited.
+
+For commercial licensing inquiries: ask@collapseindex.org
+Website: https://collapseindex.org
