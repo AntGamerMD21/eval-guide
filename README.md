@@ -2,16 +2,6 @@
 
 Learn ML evaluation metrics by running actual code and seeing real results!
 
-## 🚨 Real-World Problem Preview
-
-Imagine: Your sentiment model shows 92% accuracy in testing.
-You deploy it. Users complain it's "weirdly confident but wrong."
-
-Standard metrics say: ✅ 92% - ship it!
-SRI/CI reveal: ⚠️ Type I failures (confidently wrong on critical cases)
-
-**This guide teaches you the 92%. Lesson 6 hints at why that's not enough.**
-
 ## Quick Start
 
 **All notebooks are pre-run with outputs!** You can just read through them to learn, or run the code yourself:
@@ -167,6 +157,16 @@ SRI + CI reveal these failure modes that confidence alone misses.
 | **Use case** | Model selection, benchmarking | Production readiness, robustness testing |
 | **When to use** | Initial development & comparison | Pre-deployment validation |
 | **Availability** | Open-source (scikit-learn, NLTK) | Proprietary (Collapse Index Labs) |
+
+## 🚨 Real-World Problem Preview
+
+Imagine: Your sentiment model shows 92% accuracy in testing.
+You deploy it. Users complain it's "weirdly confident but wrong."
+
+Standard metrics say: ✅ 92% - ship it!
+SRI/CI reveal: ⚠️ Type I failures (confidently wrong on critical cases)
+
+**This guide teaches you the 92%. Lesson 6 hints at why that's not enough.**
 
 **Bottom line:** Standard metrics tell you *if* your model works. SRI/CI tell you *how* it will fail.
 
